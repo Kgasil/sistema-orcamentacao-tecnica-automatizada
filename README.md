@@ -1,5 +1,10 @@
 # Sistema de Orçamentação Técnica & Precificação Automatizada
 
+<!-- kg-personal-portfolio-v1 -->
+
+[KG Professional Portfolio 1.0 — Portfólio pessoal / Personal portfolio](https://kgasil.github.io/portfolio/) · [Estudo de caso / Case study](https://kgasil.github.io/portfolio/cases.html#quoting) · [Demonstração ilustrativa / Illustrative demo](https://kgasil.github.io/portfolio/lab.html#pricing)
+
+
 Projeto demonstrativo voltado à **Engenharia de Custos, Orçamentação Técnica e Apoio à Decisão**, automatizando o levantamento de insumos, a formação de preço de venda por *markup* divisor e a análise de viabilidade comercial.
 > 🌐 *English version available below:* [Jump to English Version](#english-version)
 ---
